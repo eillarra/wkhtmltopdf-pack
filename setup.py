@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='wkhtmltopdf-pack',
-    version='0.12.2.4',
+    version='0.12.3.0',
     url='https://github.com/illarra/wkhtmltopdf-pack',
     author='illarra',
     author_email='team@illarra.com',
