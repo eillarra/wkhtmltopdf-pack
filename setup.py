@@ -2,13 +2,13 @@ from setuptools import setup
 
 setup(
     name='wkhtmltopdf-pack',
-    version='0.12.3.0',
+    version='0.12.3.0.post1',
     url='https://github.com/illarra/wkhtmltopdf-pack',
     author='illarra',
     author_email='team@illarra.com',
     license='MIT',
     data_files=[('bin', ['bin/wkhtmltopdf-pack'])],
-    description='wkhtmltopdf for Python on Heroku/cloudControl buildpacks',
+    description='wkhtmltopdf 0.12.3.0 for Python on Heroku buildpacks',
     long_description=open('README.rst').read(),
     keywords='pdf wkhtmltopdf paas heroku cloudcontrol buildpack',
     classifiers=[
